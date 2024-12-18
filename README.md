@@ -1,2 +1,2 @@
-# my-rolympic
+# my-olympic
 my first repository 
